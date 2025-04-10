@@ -172,5 +172,11 @@ cython_debug/
 
 test.json
 test.py
+test2.json
 test2.py
 .env
+q-and-a.txt
+config.py
+exports/
+groups.py
+json_formatter.py
