@@ -179,4 +179,6 @@ q-and-a.txt
 config.py
 exports/
 groups.py
-json_formatter.py
+data_exporter.py
+members.xlsx
+paid.txt
